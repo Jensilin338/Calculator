@@ -1,7 +1,7 @@
 body{
-    margin: 0;
-    padding:0;
-    line-height: 0.5;
+    margin: 1;
+    padding:1;
+    line-height: 1.5;
     background:linear-gradient(to left,#7808f0,#06bdf5);
     font-family: sans-serif;
 }
